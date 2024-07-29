@@ -6,7 +6,6 @@ APP-AUTH-WEBFORMS is an ASP.NET webforms application demo to authenticate on Azu
 
 ## Technologies Used
 
-- **SDK**: .NET SDK 8.0
 - **Framework**: .NET Framework 4.8.0
 - **Cloud**: Microsoft Azure
 - **Microsoft Azure ID**: Requires an Azure account for deployment and services
