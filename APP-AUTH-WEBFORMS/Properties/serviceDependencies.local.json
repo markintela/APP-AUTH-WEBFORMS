@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "Registro do aplicativo: aa, Locatário: LCG, S.A (lcg.consulting - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}
