@@ -19,5 +19,5 @@ APP-AUTH-WEBFORMS is an ASP.NET webforms application demo to authenticate on Azu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/MyProductApp.git
-   cd MyProductApp
+   https://github.com/markintela/APP-AUTH-WEBFORMS.git
+   cd APP-AUTH-WEBFORMS
